@@ -1,0 +1,4 @@
+[submodule "xmarts/unique_reference"]
+	path = xmarts/unique_reference
+	url = git@github.com:xmarts/unique_reference.git
+	branch = master
