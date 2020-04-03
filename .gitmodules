@@ -2,3 +2,8 @@
 	path = xmarts/unique_reference
 	url = git@github.com:xmarts/unique_reference.git
 	branch = master
+
+[submodule "no_negatives_stock"]
+	path = no_negatives_stock
+	url = git@github.com:William954/no_negatives_stock.git
+	branch = master
